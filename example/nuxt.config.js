@@ -5,12 +5,12 @@ module.exports = {
   buildDir: resolve(__dirname, '.nuxt'),
   srcDir: __dirname,
   plugins: [
-    //'@plugins/init'
+    // '@plugins/init'
   ],
   modules: [
     { handler: require('../') }
   ],
   build: {
-   // transpile: ['@plugins/init']
+    // transpile: ['@plugins/init']
   }
 }
