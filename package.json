@@ -1,6 +1,6 @@
 {
   "name": "@xyz/state",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "universal state management",
   "repository": "xyzrepo/state",
   "license": "MIT",
@@ -20,9 +20,7 @@
     "release": "yarn test && standard-version && git push --follow-tags && npm publish",
     "test": "yarn lint && jest"
   },
-  "dependencies": {
-    "@websanova/vue-store": "^1.0.5-beta"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",
@@ -36,10 +34,8 @@
     "husky": "latest",
     "jest": "latest",
     "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21",
     "nuxt-edge": "latest",
     "standard-version": "latest",
-    "store": "^2.0.12",
     "vue": "^2.6.14"
   },
   "publishConfig": {
