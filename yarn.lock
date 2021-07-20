@@ -2152,11 +2152,6 @@
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
 
-"@websanova/vue-store@^1.0.5-beta":
-  version "1.0.5-beta"
-  resolved "https://registry.yarnpkg.com/@websanova/vue-store/-/vue-store-1.0.5-beta.tgz#ba5112773db1c856e2601857aaac6830df97f6d0"
-  integrity sha512-LAsJdDWt1ebXiGK4HxYCFMhhDFQv+mSK0d6oKvLj5SaX668Frs6FDNkyqNginetxQNgzfNVFV6PQVl/I3+YGnw==
-
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@xtuc/ieee754/-/ieee754-1.2.0.tgz#eef014a3145ae477a1cbc00cd1e552336dceb790"
@@ -9851,11 +9846,6 @@ stealthy-require@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/stealthy-require/-/stealthy-require-1.1.1.tgz#35b09875b4ff49f26a777e509b3090a3226bf24b"
   integrity sha1-NbCYdbT/SfJqd35QmzCQoyJr8ks=
-
-store@^2.0.12:
-  version "2.0.12"
-  resolved "https://registry.yarnpkg.com/store/-/store-2.0.12.tgz#8c534e2a0b831f72b75fc5f1119857c44ef5d593"
-  integrity sha1-jFNOKguDH3K3X8XxEZhXxE711ZM=
 
 stream-browserify@^2.0.1:
   version "2.0.2"
