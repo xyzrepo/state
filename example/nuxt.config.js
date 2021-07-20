@@ -10,7 +10,7 @@ module.exports = {
   modules: [
     { handler: require('../') }
   ],
-  build: {
-    // transpile: ['@plugins/init']
-  }
+  /* build: {
+     transpile: ['@plugins/state']
+  } */
 }
