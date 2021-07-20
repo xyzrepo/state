@@ -9,7 +9,7 @@ module.exports = {
   ],
   modules: [
     { handler: require('../') }
-  ],
+  ]
   /* build: {
      transpile: ['@plugins/state']
   } */
